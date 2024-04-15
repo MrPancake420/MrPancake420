@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrPancake420
 - 👀 I’m interested in Ethical Hacking & Python
-- 🌱 I’m currently learning Python & Ethical Hacking from scratch.
+- 🌱 I’m currently learning Python via #100PythonChallenge & Ethical Hacking from scratch.
 - 📫 You can reach me over here on GitHub .
 - 😄 Pronouns: He / Him
